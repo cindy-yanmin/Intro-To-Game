@@ -9,3 +9,6 @@ Keyboard Input:<br/>
 Start the Game - Space<br/>
 Left Paddle - Up: A; Down: Z<br/>
 Right Paddle -  Up: K; Down: M
+
+Commit your code to your GitHub repository.
+Post the link in the Assignments area.
