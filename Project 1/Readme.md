@@ -5,5 +5,3 @@ You can use any images you want or use the ones in the github repository.
 
 Commit your code to your GitHub repository.
 Post the link in the Assignments area.
-For example, your link might look like:
-https://github.com/tonystark/CS3113/P1/
