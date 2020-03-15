@@ -6,7 +6,7 @@ If the player touches a wall/rock show text “Mission Failed”<br/>
 If the player touches the platform show  text “Mission Successful”<br/> 
 You can use whatever graphics/theme as long as you meet the requirements.<br/>
 
-Commit your code to your GitHub repository.<br/>
-Post the link in the Assignments area.<br/>
-For example, your link might look like:<br/>
-https://github.com/tonystark/CS3113/P1/
+Keyboard Input:<br/>
+Start the Game - Space<br/>
+Decrease acceleration - Left<br/>
+Increase acceleration - Right<br/>
