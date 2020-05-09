@@ -10,4 +10,4 @@ At least 1 looping background music, and at least 1 sound effect.<br/>
 
 Keyboard Input:<br/>
 Start the game - Enter<br/>
-Aim - Up,Down,Left,Right; Shoot - Space
+Aim - Up, Down, Left, Right; Shoot - Space
